@@ -148,5 +148,13 @@ header .icons span {
  .blog-new-info-container p {
    margin-bottom: 35px;
  }
-
- 
+ .blog-button {
+   border:1px solid var(--color-primary);
+   padding: 10px 15px;
+   font-size: 12px;
+}
+ .blog-button:hover {
+   border:1px solid var(--color-black);
+   color: var(--color-black);
+   background-color: beige;
+ }
