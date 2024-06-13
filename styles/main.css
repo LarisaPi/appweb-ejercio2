@@ -190,3 +190,22 @@ header .icons span {
   color:var(--color-primary);
    margin-top: 30px;
  }
+
+ .img-about{
+  height: 450px;
+  border-radius: 10px;
+ }
+ .blog-posts-container{
+  text-align: center;
+ }
+.footer-about{
+   height: 50px;
+   width: 50px;
+}
+.foor{
+   display: inline-flex;
+   padding-left: 70px;
+   padding-right: 70px;
+   max-width: 35%;
+   margin-bottom: 50px;
+}
