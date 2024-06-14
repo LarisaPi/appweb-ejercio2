@@ -208,4 +208,14 @@ header .icons span {
    padding-right: 70px;
    max-width: 35%;
    margin-bottom: 50px;
+   color: var(--color-black);
+}
+form {
+   border-radius: 20px;
+   padding: 10px;
+   font-family: 'Roboto mono', monospace;
+   background-color:#e2f0e8;
+}
+label {
+   font-weight: bold;
 }
